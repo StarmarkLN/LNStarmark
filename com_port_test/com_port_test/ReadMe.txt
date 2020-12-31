@@ -36,4 +36,10 @@
  *  ибо
  *  ќсновное назначение - демонстрационное.
  * 
+ *  IDE - Microsoft Visual Studio 2019 v16.8.1
+ *
+ *  Created on: 31/12/2020
+ *  Author: Starmark LN
+ *  email:  ln.starmark@gmail.com
+ *  email:  ln.starmark@ekatra.io
  **/
